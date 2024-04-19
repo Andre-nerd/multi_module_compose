@@ -44,5 +44,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     //Ktor serialization
-    implementation(libs.ktor.serialization.jvm)
+    api(libs.ktor.serialization.jvm)
 }

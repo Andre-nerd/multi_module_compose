@@ -43,7 +43,6 @@ androidx-navigation = {group = "androidx.navigation", name = "navigation-compose
 squareup-sqlite-driver = {group = "com.squareup.sqldelight", name = "sqlite-driver", version.ref ="sqlDelightVersion"}
 #Ktor
 ktor-client = {group ="io.ktor", name ="ktor-client-android", version.ref ="ktorVersion"}
-ktor-serialization-json = {group ="io.ktor", name ="ktor-serialization-kotlinx-json", version.ref ="ktorVersion"}
 ktor-serialization-jvm = {group ="io.ktor", name ="ktor-serialization-kotlinx-json-jvm", version.ref ="ktorVersion"}
 ktor-negotiation = {group = "io.ktor", name = "ktor-client-content-negotiation", version.ref = "ktorVersion"}
 ktor-logging = {group = "io.ktor", name = "ktor-client-logging", version.ref = "ktorVersion"}

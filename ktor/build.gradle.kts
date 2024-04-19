@@ -45,7 +45,7 @@ dependencies {
     implementation(libs.ktor.client)
     implementation(libs.ktor.negotiation)
     implementation(libs.ktor.logging)
-    implementation(libs.ktor.serialization.jvm)
+//    implementation(libs.ktor.serialization.jvm)
 
     //add feature modules
     implementation(project(":core"))
