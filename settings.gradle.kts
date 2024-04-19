@@ -25,3 +25,4 @@ rootProject.name = "sql_ktor_example_no_kmp"
 include(":app")
 include(":ktor")
 include(":core")
+include(":feature_activity")
